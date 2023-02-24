@@ -1,4 +1,4 @@
-<h3> What's up? My name is Damir, but you can call me @dmr4eg. Currently stufying Software Engineering in Czech Technical University.  </h3>
+<h2> What's up? My name is Damir, but you can call me @dmr4eg. Currently stufying Software Engineering in Czech Technical University.  </h2>
 
 <!--
 **dmr4eg/dmr4eg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
