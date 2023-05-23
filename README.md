@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ``` console
 print("Hello World!")
 ```
+-->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
