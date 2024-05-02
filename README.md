@@ -1,12 +1,5 @@
 <h2> What's up? My name is Damir, but you can call me @dmr4eg. Currently studying Software Engineering in the Czech Technical University.  </h2>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/dmr4eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmr4eg" height="30" width="40" /></a>
-<a href="https://instagram.com/dmr4eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmr4eg" height="30" width="40" /></a>
-</p>
-
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmr4eg&layout=donut&theme=radical&hide_border=true&bg_color=)](https://github.com/dmr4eg/github-readme-stats) -->
 
 <h3 align="center">Languages I'm using:</h3>
