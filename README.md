@@ -1,4 +1,4 @@
-<h2> What's up? My name is Damirchik. I'm a DevOps Engineer @ DNAi and currently studying Software Engineering in the Czech Technical University. Let's code!</h2>
+<h2> What's up? I'm a DevOps Engineer @ DNAi and currently studying Software Engineering in the Czech Technical University. Let's code!</h2>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmr4eg&layout=donut&theme=radical&hide_border=true&bg_color=)](https://github.com/dmr4eg/github-readme-stats) -->
 
